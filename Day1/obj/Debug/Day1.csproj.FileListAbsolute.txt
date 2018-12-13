@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\bin\Debug\Day1.exe.config
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\bin\Debug\Day1.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\bin\Debug\Day1.pdb
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\obj\Debug\Day1.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\obj\Debug\Day1.pdb
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day1\bin\Debug\frequency.txt
