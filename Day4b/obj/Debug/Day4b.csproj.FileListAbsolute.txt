@@ -1,0 +1,8 @@
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\bin\Debug\input.txt
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\bin\Debug\test.txt
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\bin\Debug\Day4b.exe.config
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\bin\Debug\Day4b.exe
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\bin\Debug\Day4b.pdb
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\obj\Debug\Day4b.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\obj\Debug\Day4b.exe
+C:\Users\skalmar\Documents\Visual Studio 2013\Projects\AdventOfCode2018\Day4b\obj\Debug\Day4b.pdb
