@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\obj\Debug\Day5b.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\bin\Debug\Day5b.exe.config
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\bin\Debug\Day5b.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\bin\Debug\Day5b.pdb
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\obj\Debug\Day5b.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day5b\obj\Debug\Day5b.pdb
