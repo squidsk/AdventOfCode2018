@@ -9,12 +9,12 @@
 using System;
 using System.IO;
 
-namespace Day1b
+namespace Day1
 {
     /// <summary>
     /// Description of Day1.
     /// </summary>
-    public static class Day1b
+    public static class Day1
     {
         public static void Main(string[] args)
         {

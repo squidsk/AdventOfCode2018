@@ -6,3 +6,11 @@ C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day2\obj\Debug\Day2.
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day2\obj\Debug\Day2.exe
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day2\obj\Debug\Day2.pdb
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode\Day2\bin\Debug\test.txt
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\bin\Debug\input.txt
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\bin\Debug\test.txt
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\bin\Debug\Day2.exe.config
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\bin\Debug\Day2.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\bin\Debug\Day2.pdb
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\obj\Debug\Day2.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2\obj\Debug\Day2.pdb
