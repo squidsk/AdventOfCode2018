@@ -1,0 +1,8 @@
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\obj\Debug\Day6b.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\bin\Debug\input.txt
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\bin\Debug\test.txt
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\bin\Debug\Day6b.exe.config
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\bin\Debug\Day6b.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\bin\Debug\Day6b.pdb
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\obj\Debug\Day6b.exe
+C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6b\obj\Debug\Day6b.pdb
