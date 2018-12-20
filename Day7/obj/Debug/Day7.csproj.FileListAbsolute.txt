@@ -1,0 +1,8 @@
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\obj\Debug\Day7.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\bin\Debug\input.txt
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\bin\Debug\test.txt
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\bin\Debug\Day7.exe.config
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\bin\Debug\Day7.exe
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\bin\Debug\Day7.pdb
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\obj\Debug\Day7.exe
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day7\obj\Debug\Day7.pdb
