@@ -1,0 +1,6 @@
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\bin\Debug\Day11b.exe.config
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\bin\Debug\Day11b.exe
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\bin\Debug\Day11b.pdb
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\obj\Debug\Day11b.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\obj\Debug\Day11b.exe
+C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day11b\obj\Debug\Day11b.pdb
