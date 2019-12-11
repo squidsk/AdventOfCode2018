@@ -8,9 +8,10 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Day1b</RootNamespace>
     <AssemblyName>Day1b</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <StartupObject>Day1b.Day1b</StartupObject>
     <NoWin32Manifest>False</NoWin32Manifest>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>

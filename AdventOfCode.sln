@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-# SharpDevelop 5.1
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.2
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "Day1\Day1.csproj", "{974B317B-519F-4A79-9536-8AD6700ACCC4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1b", "Day1b\Day1b.csproj", "{15DEC006-5923-4032-A750-AFCDE1FC5ED6}"
@@ -39,6 +41,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11", "Day11\Day11.csproj", "{66E06FF9-71B4-4254-BB3B-599632D3AF99}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11b", "Day11b\Day11b.csproj", "{0324E57D-228D-493E-BEBA-62184BAA608C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day12", "Day12\Day12.csproj", "{E8D4E1D7-3A25-49E7-86E1-B341B58B070A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day13", "Day13\Day13.csproj", "{FED2EF3E-4911-4637-8261-90B45E0D0458}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -122,5 +128,13 @@ Global
 		{0324E57D-228D-493E-BEBA-62184BAA608C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0324E57D-228D-493E-BEBA-62184BAA608C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0324E57D-228D-493E-BEBA-62184BAA608C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D4E1D7-3A25-49E7-86E1-B341B58B070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D4E1D7-3A25-49E7-86E1-B341B58B070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D4E1D7-3A25-49E7-86E1-B341B58B070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D4E1D7-3A25-49E7-86E1-B341B58B070A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED2EF3E-4911-4637-8261-90B45E0D0458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED2EF3E-4911-4637-8261-90B45E0D0458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED2EF3E-4911-4637-8261-90B45E0D0458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED2EF3E-4911-4637-8261-90B45E0D0458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

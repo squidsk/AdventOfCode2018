@@ -14,3 +14,11 @@ C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2b\bin\Debug\
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.csprojResolveAssemblyReference.cache
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.exe
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\bin\Debug\input.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\bin\Debug\test.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\bin\Debug\Day2b.exe.config
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\bin\Debug\Day2b.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\bin\Debug\Day2b.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day2b\obj\Debug\Day2b.pdb

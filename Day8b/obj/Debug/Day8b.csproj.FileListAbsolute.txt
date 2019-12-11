@@ -4,3 +4,9 @@ C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day8b\bin\Debug\Day8b.pdb
 C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.csprojResolveAssemblyReference.cache
 C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.exe
 C:\Users\skalmar\Documents\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\bin\Debug\Day8b.exe.config
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\bin\Debug\Day8b.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\bin\Debug\Day8b.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day8b\obj\Debug\Day8b.pdb

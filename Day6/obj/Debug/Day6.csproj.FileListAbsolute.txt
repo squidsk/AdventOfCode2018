@@ -11,3 +11,11 @@ C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6\bin\Debug\D
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6\obj\Debug\Day6.pdb
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6\bin\Debug\input.txt
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day6\bin\Debug\test.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\bin\Debug\input.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\bin\Debug\test.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\bin\Debug\Day6.exe.config
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\bin\Debug\Day6.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\bin\Debug\Day6.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\obj\Debug\Day6.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\obj\Debug\Day6.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day6\obj\Debug\Day6.pdb

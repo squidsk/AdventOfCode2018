@@ -14,3 +14,11 @@ C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day3\bin\Debug\D
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day3\obj\Debug\Day3.csprojResolveAssemblyReference.cache
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day3\obj\Debug\Day3.exe
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day3\obj\Debug\Day3.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\bin\Debug\input.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\bin\Debug\test.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\bin\Debug\Day3.exe.config
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\bin\Debug\Day3.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\bin\Debug\Day3.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\obj\Debug\Day3.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\obj\Debug\Day3.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day3\obj\Debug\Day3.pdb

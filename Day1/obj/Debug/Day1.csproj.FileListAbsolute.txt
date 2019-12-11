@@ -12,3 +12,10 @@ C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day1\bin\Debug\f
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day1\bin\Debug\Day1.exe.config
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day1\bin\Debug\Day1.exe
 C:\Users\Steve\Documents\SharpDevelop Projects\AdventOfCode2018\Day1\bin\Debug\Day1.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\bin\Debug\frequency.txt
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\bin\Debug\Day1.exe.config
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\bin\Debug\Day1.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\bin\Debug\Day1.pdb
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\obj\Debug\Day1.exe
+C:\Users\skalmar\Projects\AdventOfCode2018\Day1\obj\Debug\Day1.pdb
