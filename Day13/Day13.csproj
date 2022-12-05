@@ -62,6 +62,9 @@
     </None>
     <None Include="test2.txt" />
     <None Include="test3.txt" />
+    <None Include="test4.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
